@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="14" fill="#8fbf7a"/>
+  <g fill="#4a4a4a">
+    <!-- orelhas -->
+    <ellipse cx="21" cy="13" rx="4.5" ry="8"/>
+    <ellipse cx="43" cy="13" rx="4.5" ry="8"/>
+    <!-- corpo/cabeça -->
+    <ellipse cx="32" cy="36" rx="20" ry="21"/>
+  </g>
+  <!-- barriga -->
+  <ellipse cx="32" cy="42" rx="11" ry="13" fill="#e9e3d5"/>
+  <!-- olhos -->
+  <circle cx="24" cy="31" r="3.4" fill="#fdfbf6"/>
+  <circle cx="40" cy="31" r="3.4" fill="#fdfbf6"/>
+  <circle cx="24.6" cy="31.4" r="1.6" fill="#2b2b2b"/>
+  <circle cx="40.6" cy="31.4" r="1.6" fill="#2b2b2b"/>
+  <!-- nariz -->
+  <ellipse cx="32" cy="36.5" rx="2.2" ry="1.7" fill="#2b2b2b"/>
+</svg>
